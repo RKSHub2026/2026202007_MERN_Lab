@@ -2,7 +2,7 @@
 
 **Student Name:** Rahul Kumar Singh
 **Student ID:** 2026202007
-**GitHub Repository:** _[Paste your repo link here]_
+**GitHub Repository:** https://github.com/RKSHub2026/2026202007_MERN_Lab
 
 A full-stack notes management application built with MongoDB, Express, React (Vite), and Node.js.
 
