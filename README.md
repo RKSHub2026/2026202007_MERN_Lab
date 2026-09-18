@@ -96,7 +96,4 @@ notes-app/
         |-- index.css
 ```
 
-## Notes for Evaluation
 
-- `node_modules/` and `dist/` are excluded via `.gitignore` and are not included in the submission zip.
-- Screenshots (`ui-preview.png` and `delete-action.png`) should be added to the `screenshots/` folder before zipping — see below.
